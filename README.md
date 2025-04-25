@@ -41,5 +41,3 @@ A Desktop program where you can upload images and add a watermark.
 5. Open a Pull Request and describe your enhancements.
 
 ---
-
-Enjoy watermarking your images with ease!
